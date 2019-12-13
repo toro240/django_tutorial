@@ -8,3 +8,7 @@ drango tutorial app
 cd ./mysite
 
 python manage.py runserver
+
+### talk mode
+
+python manage.py shell
